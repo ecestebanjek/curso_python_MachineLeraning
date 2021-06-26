@@ -1,0 +1,37 @@
+warning: LF will be replaced by CRLF in T1-TITANIC JECG.ipynb.
+The file will have its original line endings in your working directory
+[1mdiff --git a/T1-TITANIC JECG.ipynb b/T1-TITANIC JECG.ipynb[m
+[1mindex f1235b7..5ddd5c0 100644[m
+[1m--- a/T1-TITANIC JECG.ipynb[m	
+[1m+++ b/T1-TITANIC JECG.ipynb[m	
+[36m@@ -208,6 +208,30 @@[m
+     "    counter = counter+ 1\n",[m
+     "print(\"El dataset tiene %d filas y %d columnas\" % (counter, n_cols))"[m
+    ][m
+[32m+[m[32m  },[m
+[32m+[m[32m  {[m
+[32m+[m[32m   "cell_type": "code",[m
+[32m+[m[32m   "execution_count": null,[m
+[32m+[m[32m   "id": "2cf116f8",[m
+[32m+[m[32m   "metadata": {},[m
+[32m+[m[32m   "outputs": [],[m
+[32m+[m[32m   "source": [][m
+[32m+[m[32m  },[m
+[32m+[m[32m  {[m
+[32m+[m[32m   "cell_type": "code",[m
+[32m+[m[32m   "execution_count": null,[m
+[32m+[m[32m   "id": "1e9c4ad8",[m
+[32m+[m[32m   "metadata": {},[m
+[32m+[m[32m   "outputs": [],[m
+[32m+[m[32m   "source": [][m
+[32m+[m[32m  },[m
+[32m+[m[32m  {[m
+[32m+[m[32m   "cell_type": "code",[m
+[32m+[m[32m   "execution_count": null,[m
+[32m+[m[32m   "id": "58662130",[m
+[32m+[m[32m   "metadata": {},[m
+[32m+[m[32m   "outputs": [],[m
+[32m+[m[32m   "source": [][m
+   }[m
+  ],[m
+  "metadata": {[m
